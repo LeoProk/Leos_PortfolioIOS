@@ -1,0 +1,6 @@
+framework module Pods_Leos_PortfolioIOSTests {
+  umbrella header "Pods-Leos_PortfolioIOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

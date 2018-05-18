@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		12166E4545B9651A9C6BB0F1 /* Pods_Leos_PortfolioIOSUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B2CC5E84A5F38BA6B364BC2 /* Pods_Leos_PortfolioIOSUITests.framework */; };
+		1585685BBAE0B63FEED6A506 /* Pods_Leos_PortfolioIOSTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07A68328B237E427B84EAA83 /* Pods_Leos_PortfolioIOSTests.framework */; };
+		38139B267425F94BD9B25D04 /* Pods_Leos_PortfolioIOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33E9658ECE9765BE945CBB6D /* Pods_Leos_PortfolioIOS.framework */; };
 		CE409A412000257B00CEE342 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE409A402000257B00CEE342 /* AppDelegate.swift */; };
 		CE409A432000257B00CEE342 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE409A422000257B00CEE342 /* ViewController.swift */; };
 		CE409A462000257B00CEE342 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE409A442000257B00CEE342 /* Main.storyboard */; };
@@ -34,6 +37,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		04E3FFA5C155987F88935600 /* Pods-Leos_PortfolioIOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Leos_PortfolioIOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Leos_PortfolioIOSTests/Pods-Leos_PortfolioIOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		07A68328B237E427B84EAA83 /* Pods_Leos_PortfolioIOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Leos_PortfolioIOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C9C8732064E1552527EB6AE /* Pods-Leos_PortfolioIOSUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Leos_PortfolioIOSUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Leos_PortfolioIOSUITests/Pods-Leos_PortfolioIOSUITests.release.xcconfig"; sourceTree = "<group>"; };
+		1A9E34DCB221E8355A5B6AD7 /* Pods-Leos_PortfolioIOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Leos_PortfolioIOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Leos_PortfolioIOS/Pods-Leos_PortfolioIOS.debug.xcconfig"; sourceTree = "<group>"; };
+		2C964FA8442AD74835E27321 /* Pods-Leos_PortfolioIOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Leos_PortfolioIOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Leos_PortfolioIOSTests/Pods-Leos_PortfolioIOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		2EDC33AD667B89D5A62E7805 /* Pods-Leos_PortfolioIOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Leos_PortfolioIOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-Leos_PortfolioIOS/Pods-Leos_PortfolioIOS.release.xcconfig"; sourceTree = "<group>"; };
+		33E9658ECE9765BE945CBB6D /* Pods_Leos_PortfolioIOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Leos_PortfolioIOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B2CC5E84A5F38BA6B364BC2 /* Pods_Leos_PortfolioIOSUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Leos_PortfolioIOSUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE409A3D2000257B00CEE342 /* Leos_PortfolioIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leos_PortfolioIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE409A402000257B00CEE342 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE409A422000257B00CEE342 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +58,7 @@
 		CE409A5C2000257B00CEE342 /* Leos_PortfolioIOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Leos_PortfolioIOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE409A602000257B00CEE342 /* Leos_PortfolioIOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Leos_PortfolioIOSUITests.swift; sourceTree = "<group>"; };
 		CE409A622000257B00CEE342 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0EA461F7950C4A3ADE4BCE0 /* Pods-Leos_PortfolioIOSUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Leos_PortfolioIOSUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Leos_PortfolioIOSUITests/Pods-Leos_PortfolioIOSUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38139B267425F94BD9B25D04 /* Pods_Leos_PortfolioIOS.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1585685BBAE0B63FEED6A506 /* Pods_Leos_PortfolioIOSTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +82,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				12166E4545B9651A9C6BB0F1 /* Pods_Leos_PortfolioIOSUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		94241AEC5EBC2E80B955DEA0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				33E9658ECE9765BE945CBB6D /* Pods_Leos_PortfolioIOS.framework */,
+				07A68328B237E427B84EAA83 /* Pods_Leos_PortfolioIOSTests.framework */,
+				6B2CC5E84A5F38BA6B364BC2 /* Pods_Leos_PortfolioIOSUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AF4CE0D18465FD93ADDDAEB4 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1A9E34DCB221E8355A5B6AD7 /* Pods-Leos_PortfolioIOS.debug.xcconfig */,
+				2EDC33AD667B89D5A62E7805 /* Pods-Leos_PortfolioIOS.release.xcconfig */,
+				04E3FFA5C155987F88935600 /* Pods-Leos_PortfolioIOSTests.debug.xcconfig */,
+				2C964FA8442AD74835E27321 /* Pods-Leos_PortfolioIOSTests.release.xcconfig */,
+				E0EA461F7950C4A3ADE4BCE0 /* Pods-Leos_PortfolioIOSUITests.debug.xcconfig */,
+				0C9C8732064E1552527EB6AE /* Pods-Leos_PortfolioIOSUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		CE409A342000257B00CEE342 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +119,8 @@
 				CE409A542000257B00CEE342 /* Leos_PortfolioIOSTests */,
 				CE409A5F2000257B00CEE342 /* Leos_PortfolioIOSUITests */,
 				CE409A3E2000257B00CEE342 /* Products */,
+				AF4CE0D18465FD93ADDDAEB4 /* Pods */,
+				94241AEC5EBC2E80B955DEA0 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -132,9 +172,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CE409A652000257B00CEE342 /* Build configuration list for PBXNativeTarget "Leos_PortfolioIOS" */;
 			buildPhases = (
+				85D62FBEFF108EE8F09C70F7 /* [CP] Check Pods Manifest.lock */,
 				CE409A392000257B00CEE342 /* Sources */,
 				CE409A3A2000257B00CEE342 /* Frameworks */,
 				CE409A3B2000257B00CEE342 /* Resources */,
+				2356E7FCE9B85689C0B346E6 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -149,6 +191,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CE409A682000257B00CEE342 /* Build configuration list for PBXNativeTarget "Leos_PortfolioIOSTests" */;
 			buildPhases = (
+				678E023F76963F6116606B3F /* [CP] Check Pods Manifest.lock */,
 				CE409A4D2000257B00CEE342 /* Sources */,
 				CE409A4E2000257B00CEE342 /* Frameworks */,
 				CE409A4F2000257B00CEE342 /* Resources */,
@@ -167,6 +210,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CE409A6B2000257B00CEE342 /* Build configuration list for PBXNativeTarget "Leos_PortfolioIOSUITests" */;
 			buildPhases = (
+				137991CA0B0077F3DBDAD4C2 /* [CP] Check Pods Manifest.lock */,
 				CE409A582000257B00CEE342 /* Sources */,
 				CE409A592000257B00CEE342 /* Frameworks */,
 				CE409A5A2000257B00CEE342 /* Resources */,
@@ -253,6 +297,83 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		137991CA0B0077F3DBDAD4C2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Leos_PortfolioIOSUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2356E7FCE9B85689C0B346E6 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Leos_PortfolioIOS/Pods-Leos_PortfolioIOS-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework",
+				"${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxCocoa.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxSwift.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Leos_PortfolioIOS/Pods-Leos_PortfolioIOS-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		678E023F76963F6116606B3F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Leos_PortfolioIOSTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		85D62FBEFF108EE8F09C70F7 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Leos_PortfolioIOS-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		CE409A392000257B00CEE342 /* Sources */ = {
@@ -424,6 +545,7 @@
 		};
 		CE409A662000257B00CEE342 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1A9E34DCB221E8355A5B6AD7 /* Pods-Leos_PortfolioIOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -438,6 +560,7 @@
 		};
 		CE409A672000257B00CEE342 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2EDC33AD667B89D5A62E7805 /* Pods-Leos_PortfolioIOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -452,6 +575,7 @@
 		};
 		CE409A692000257B00CEE342 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 04E3FFA5C155987F88935600 /* Pods-Leos_PortfolioIOSTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -468,6 +592,7 @@
 		};
 		CE409A6A2000257B00CEE342 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2C964FA8442AD74835E27321 /* Pods-Leos_PortfolioIOSTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -484,6 +609,7 @@
 		};
 		CE409A6C2000257B00CEE342 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E0EA461F7950C4A3ADE4BCE0 /* Pods-Leos_PortfolioIOSUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -499,6 +625,7 @@
 		};
 		CE409A6D2000257B00CEE342 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0C9C8732064E1552527EB6AE /* Pods-Leos_PortfolioIOSUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
